@@ -15,7 +15,7 @@
 		{
 			"id": "geode.custom-keybinds",
 			"importance": "required",
-			"version": "*"
+			"version": "1.10.0"
 		}
 	],
 	"tags": ["offline", "gameplay", "universal", "utility", "enhancement"],
