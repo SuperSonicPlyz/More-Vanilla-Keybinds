@@ -1,0 +1,27 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "mobmastermind.more_vanilla_keybinds",
+	"name": "More Vanilla Keybinds",
+	"version": "v1.0.0",
+	"developer": "MobMasterMind",
+	"description": "Adds more keybinds for tasks in Vanilla GD",
+	"dependencies": [
+		{
+			"id": "geode.custom-keybinds",
+			"importance": "required",
+			"version": "*"
+		}
+	],
+	"tags": ["offline", "gameplay", "universal", "utility", "enhancement"],
+
+	"links": {
+		"community": "http://dsc.gg/mobmastermind",
+		"source": "http://github.com/supersonicplyz/more-vanilla-keybinds"
+	}
+}
